@@ -1,0 +1,7 @@
+
+initial_rent = int(input())
+
+
+final_rent = 2 * initial_rent
+
+print(final_rent)
