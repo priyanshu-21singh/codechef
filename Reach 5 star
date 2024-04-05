@@ -1,0 +1,12 @@
+def is_five_star_rated(initial_rating, increase):
+    final_rating = initial_rating + increase
+    return final_rating >= 2000
+
+# Input 123456
+x, y = map(int, input().split())
+
+# Check if Chef will become 5-star rated qwe3234323
+if is_five_star_rated(x, y):
+    print("YES")
+else:
+    print("NO")
