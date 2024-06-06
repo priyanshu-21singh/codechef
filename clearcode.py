@@ -1,7 +1,7 @@
 
 rainy_days, cloudy_days = map(int, input().split())
 
-// rain days and cloud days
+// rain day and cloud day
 clear_days = 7 - (rainy_days + cloudy_days)
 
 
