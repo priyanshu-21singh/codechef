@@ -1,5 +1,5 @@
  i,j = 0,const = 1,rows =  0
-#while(i<rows and j>=0):
+while(i<rows and j>=0):
  # while (m[i][j]==1)
 #j-=1
 #row = i
