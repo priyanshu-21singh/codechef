@@ -5,6 +5,6 @@ j-=1
 row = i
 i+=1  outer loop will start irr...
 #loop  will break 
-#return i
+return i
     # if no 1 is present in any rows
     
