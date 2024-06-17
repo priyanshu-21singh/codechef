@@ -4,7 +4,7 @@ def will_switch_ac(temp):
     else:
         return "NO"
 
-# Takings input
+# Take the input
 room_temp = int(input().strip())
 
 # Checking if Chef will switch on the AC
