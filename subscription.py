@@ -13,6 +13,7 @@ def solve_test_case():
 
     # Calculate and print the result for the current test case
     result = min_total_cost(N, X)
+    
     print(result)
 
 # Input the number of test cases
