@@ -6,7 +6,6 @@ def find_number_of_notes(n):
     return number_of_500_notes
     # Input the number of Rs. 2000 notes Chef has collected
 n = int(input())
-
 # Output the number of Rs. 500 notes needed
 result = find_number_of_notes(n)
 print(result)
