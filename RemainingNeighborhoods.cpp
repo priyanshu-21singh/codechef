@@ -4,9 +4,7 @@ int main() {
     
     int N;
     std::cin >> N;
-
-    
-    const int totalNeighborhoods = 100;
+const int totalNeighborhoods = 100;
 
     
     int remainingNeighborhoods = totalNeighborhoods - N;
