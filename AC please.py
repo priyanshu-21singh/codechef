@@ -1,4 +1,5 @@
 def will_switch_ac(temp):
+    
     if temp > 30:
         return "YES"
     else:
